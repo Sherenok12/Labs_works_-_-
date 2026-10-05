@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shere\\source\\repos\\45\\LB_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A530F70-2626-43EE-BCE5-F7F824D31154}|LB_2\\LB_2.csproj|c:\\users\\shere\\source\\repos\\45\\lb_2\\lb_2\\shopreportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A530F70-2626-43EE-BCE5-F7F824D31154}|LB_2\\LB_2.csproj|solutionrelative:lb_2\\shopreportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A530F70-2626-43EE-BCE5-F7F824D31154}|LB_2\\LB_2.csproj|c:\\users\\shere\\source\\repos\\45\\lb_2\\lb_2\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A530F70-2626-43EE-BCE5-F7F824D31154}|LB_2\\LB_2.csproj|solutionrelative:lb_2\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A530F70-2626-43EE-BCE5-F7F824D31154}|LB_2\\LB_2.csproj|c:\\users\\shere\\source\\repos\\45\\lb_2\\lb_2\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A530F70-2626-43EE-BCE5-F7F824D31154}|LB_2\\LB_2.csproj|solutionrelative:lb_2\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A530F70-2626-43EE-BCE5-F7F824D31154}|LB_2\\LB_2.csproj|c:\\users\\shere\\source\\repos\\45\\lb_2\\lb_2\\inmemoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A530F70-2626-43EE-BCE5-F7F824D31154}|LB_2\\LB_2.csproj|solutionrelative:lb_2\\inmemoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A530F70-2626-43EE-BCE5-F7F824D31154}|LB_2\\LB_2.csproj|c:\\users\\shere\\source\\repos\\45\\lb_2\\lb_2\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A530F70-2626-43EE-BCE5-F7F824D31154}|LB_2\\LB_2.csproj|solutionrelative:lb_2\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A530F70-2626-43EE-BCE5-F7F824D31154}|LB_2\\LB_2.csproj|c:\\users\\shere\\source\\repos\\45\\lb_2\\lb_2\\loyaltycard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A530F70-2626-43EE-BCE5-F7F824D31154}|LB_2\\LB_2.csproj|solutionrelative:lb_2\\loyaltycard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A530F70-2626-43EE-BCE5-F7F824D31154}|LB_2\\LB_2.csproj|c:\\users\\shere\\source\\repos\\45\\lb_2\\lb_2\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A530F70-2626-43EE-BCE5-F7F824D31154}|LB_2\\LB_2.csproj|solutionrelative:lb_2\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A530F70-2626-43EE-BCE5-F7F824D31154}|LB_2\\LB_2.csproj|c:\\users\\shere\\source\\repos\\45\\lb_2\\lb_2\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A530F70-2626-43EE-BCE5-F7F824D31154}|LB_2\\LB_2.csproj|solutionrelative:lb_2\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A530F70-2626-43EE-BCE5-F7F824D31154}|LB_2\\LB_2.csproj|c:\\users\\shere\\source\\repos\\45\\lb_2\\lb_2\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A530F70-2626-43EE-BCE5-F7F824D31154}|LB_2\\LB_2.csproj|solutionrelative:lb_2\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A530F70-2626-43EE-BCE5-F7F824D31154}|LB_2\\LB_2.csproj|c:\\users\\shere\\source\\repos\\45\\lb_2\\lb_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A530F70-2626-43EE-BCE5-F7F824D31154}|LB_2\\LB_2.csproj|solutionrelative:lb_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\shere\\source\\repos\\45\\LB_2\\LB_2\\Order.cs",
+              "RelativeDocumentMoniker": "LB_2\\Order.cs",
+              "ToolTip": "C:\\Users\\shere\\source\\repos\\45\\LB_2\\LB_2\\Order.cs",
+              "RelativeToolTip": "LB_2\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T10:55:04.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoyaltyCard.cs",
+              "DocumentMoniker": "C:\\Users\\shere\\source\\repos\\45\\LB_2\\LB_2\\LoyaltyCard.cs",
+              "RelativeDocumentMoniker": "LB_2\\LoyaltyCard.cs",
+              "ToolTip": "C:\\Users\\shere\\source\\repos\\45\\LB_2\\LB_2\\LoyaltyCard.cs",
+              "RelativeToolTip": "LB_2\\LoyaltyCard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T10:54:17.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\shere\\source\\repos\\45\\LB_2\\LB_2\\Product.cs",
+              "RelativeDocumentMoniker": "LB_2\\Product.cs",
+              "ToolTip": "C:\\Users\\shere\\source\\repos\\45\\LB_2\\LB_2\\Product.cs",
+              "RelativeToolTip": "LB_2\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T10:52:26.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shere\\source\\repos\\45\\LB_2\\LB_2\\Program.cs",
+              "RelativeDocumentMoniker": "LB_2\\Program.cs",
+              "ToolTip": "C:\\Users\\shere\\source\\repos\\45\\LB_2\\LB_2\\Program.cs",
+              "RelativeToolTip": "LB_2\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T10:51:06.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InMemoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\shere\\source\\repos\\45\\LB_2\\LB_2\\InMemoryRepository.cs",
+              "RelativeDocumentMoniker": "LB_2\\InMemoryRepository.cs",
+              "ToolTip": "C:\\Users\\shere\\source\\repos\\45\\LB_2\\LB_2\\InMemoryRepository.cs",
+              "RelativeToolTip": "LB_2\\InMemoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T10:57:58.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\shere\\source\\repos\\45\\LB_2\\LB_2\\Customer.cs",
+              "RelativeDocumentMoniker": "LB_2\\Customer.cs",
+              "ToolTip": "C:\\Users\\shere\\source\\repos\\45\\LB_2\\LB_2\\Customer.cs",
+              "RelativeToolTip": "LB_2\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T10:53:23.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\shere\\source\\repos\\45\\LB_2\\LB_2\\Category.cs",
+              "RelativeDocumentMoniker": "LB_2\\Category.cs",
+              "ToolTip": "C:\\Users\\shere\\source\\repos\\45\\LB_2\\LB_2\\Category.cs",
+              "RelativeToolTip": "LB_2\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T10:52:04.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShopReportService.cs",
+              "DocumentMoniker": "C:\\Users\\shere\\source\\repos\\45\\LB_2\\LB_2\\ShopReportService.cs",
+              "RelativeDocumentMoniker": "LB_2\\ShopReportService.cs",
+              "ToolTip": "C:\\Users\\shere\\source\\repos\\45\\LB_2\\LB_2\\ShopReportService.cs",
+              "RelativeToolTip": "LB_2\\ShopReportService.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwCwAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T10:58:24.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\shere\\source\\repos\\45\\LB_2\\LB_2\\OrderItem.cs",
+              "RelativeDocumentMoniker": "LB_2\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\shere\\source\\repos\\45\\LB_2\\LB_2\\OrderItem.cs",
+              "RelativeToolTip": "LB_2\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T10:55:41.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\shere\\source\\repos\\45\\LB_2\\LB_2\\IRepository.cs",
+              "RelativeDocumentMoniker": "LB_2\\IRepository.cs",
+              "ToolTip": "C:\\Users\\shere\\source\\repos\\45\\LB_2\\LB_2\\IRepository.cs",
+              "RelativeToolTip": "LB_2\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T10:56:16.518Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
