@@ -1,0 +1,14 @@
+C:\Users\shere\source\repos\45\Lab_work2\Lab_work2\bin\Debug\net8.0\Lab_work2.exe
+C:\Users\shere\source\repos\45\Lab_work2\Lab_work2\bin\Debug\net8.0\Lab_work2.deps.json
+C:\Users\shere\source\repos\45\Lab_work2\Lab_work2\bin\Debug\net8.0\Lab_work2.runtimeconfig.json
+C:\Users\shere\source\repos\45\Lab_work2\Lab_work2\bin\Debug\net8.0\Lab_work2.dll
+C:\Users\shere\source\repos\45\Lab_work2\Lab_work2\bin\Debug\net8.0\Lab_work2.pdb
+C:\Users\shere\source\repos\45\Lab_work2\Lab_work2\obj\Debug\net8.0\Lab_work2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shere\source\repos\45\Lab_work2\Lab_work2\obj\Debug\net8.0\Lab_work2.AssemblyInfoInputs.cache
+C:\Users\shere\source\repos\45\Lab_work2\Lab_work2\obj\Debug\net8.0\Lab_work2.AssemblyInfo.cs
+C:\Users\shere\source\repos\45\Lab_work2\Lab_work2\obj\Debug\net8.0\Lab_work2.csproj.CoreCompileInputs.cache
+C:\Users\shere\source\repos\45\Lab_work2\Lab_work2\obj\Debug\net8.0\Lab_work2.dll
+C:\Users\shere\source\repos\45\Lab_work2\Lab_work2\obj\Debug\net8.0\refint\Lab_work2.dll
+C:\Users\shere\source\repos\45\Lab_work2\Lab_work2\obj\Debug\net8.0\Lab_work2.pdb
+C:\Users\shere\source\repos\45\Lab_work2\Lab_work2\obj\Debug\net8.0\Lab_work2.genruntimeconfig.cache
+C:\Users\shere\source\repos\45\Lab_work2\Lab_work2\obj\Debug\net8.0\ref\Lab_work2.dll

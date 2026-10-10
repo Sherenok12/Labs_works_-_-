@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shere\\source\\repos\\45\\Lab_work2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{942476B9-47CC-4E5D-931B-82D858DC0A61}|Lab_work2\\Lab_work2.csproj|c:\\users\\shere\\source\\repos\\45\\lab_work2\\lab_work2\\services\\universityinfoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942476B9-47CC-4E5D-931B-82D858DC0A61}|Lab_work2\\Lab_work2.csproj|solutionrelative:lab_work2\\services\\universityinfoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942476B9-47CC-4E5D-931B-82D858DC0A61}|Lab_work2\\Lab_work2.csproj|c:\\users\\shere\\source\\repos\\45\\lab_work2\\lab_work2\\repository\\universityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942476B9-47CC-4E5D-931B-82D858DC0A61}|Lab_work2\\Lab_work2.csproj|solutionrelative:lab_work2\\repository\\universityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942476B9-47CC-4E5D-931B-82D858DC0A61}|Lab_work2\\Lab_work2.csproj|c:\\users\\shere\\source\\repos\\45\\lab_work2\\lab_work2\\models\\studentcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942476B9-47CC-4E5D-931B-82D858DC0A61}|Lab_work2\\Lab_work2.csproj|solutionrelative:lab_work2\\models\\studentcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942476B9-47CC-4E5D-931B-82D858DC0A61}|Lab_work2\\Lab_work2.csproj|c:\\users\\shere\\source\\repos\\45\\lab_work2\\lab_work2\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942476B9-47CC-4E5D-931B-82D858DC0A61}|Lab_work2\\Lab_work2.csproj|solutionrelative:lab_work2\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942476B9-47CC-4E5D-931B-82D858DC0A61}|Lab_work2\\Lab_work2.csproj|c:\\users\\shere\\source\\repos\\45\\lab_work2\\lab_work2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942476B9-47CC-4E5D-931B-82D858DC0A61}|Lab_work2\\Lab_work2.csproj|solutionrelative:lab_work2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942476B9-47CC-4E5D-931B-82D858DC0A61}|Lab_work2\\Lab_work2.csproj|c:\\users\\shere\\source\\repos\\45\\lab_work2\\lab_work2\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942476B9-47CC-4E5D-931B-82D858DC0A61}|Lab_work2\\Lab_work2.csproj|solutionrelative:lab_work2\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942476B9-47CC-4E5D-931B-82D858DC0A61}|Lab_work2\\Lab_work2.csproj|c:\\users\\shere\\source\\repos\\45\\lab_work2\\lab_work2\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942476B9-47CC-4E5D-931B-82D858DC0A61}|Lab_work2\\Lab_work2.csproj|solutionrelative:lab_work2\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942476B9-47CC-4E5D-931B-82D858DC0A61}|Lab_work2\\Lab_work2.csproj|c:\\users\\shere\\source\\repos\\45\\lab_work2\\lab_work2\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942476B9-47CC-4E5D-931B-82D858DC0A61}|Lab_work2\\Lab_work2.csproj|solutionrelative:lab_work2\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942476B9-47CC-4E5D-931B-82D858DC0A61}|Lab_work2\\Lab_work2.csproj|c:\\users\\shere\\source\\repos\\45\\lab_work2\\lab_work2\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942476B9-47CC-4E5D-931B-82D858DC0A61}|Lab_work2\\Lab_work2.csproj|solutionrelative:lab_work2\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942476B9-47CC-4E5D-931B-82D858DC0A61}|Lab_work2\\Lab_work2.csproj|c:\\users\\shere\\source\\repos\\45\\lab_work2\\lab_work2\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942476B9-47CC-4E5D-931B-82D858DC0A61}|Lab_work2\\Lab_work2.csproj|solutionrelative:lab_work2\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UniversityInfoService.cs",
+              "DocumentMoniker": "C:\\Users\\shere\\source\\repos\\45\\Lab_work2\\Lab_work2\\Services\\UniversityInfoService.cs",
+              "RelativeDocumentMoniker": "Lab_work2\\Services\\UniversityInfoService.cs",
+              "ToolTip": "C:\\Users\\shere\\source\\repos\\45\\Lab_work2\\Lab_work2\\Services\\UniversityInfoService.cs",
+              "RelativeToolTip": "Lab_work2\\Services\\UniversityInfoService.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAswHYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T11:46:41.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UniversityRepository.cs",
+              "DocumentMoniker": "C:\\Users\\shere\\source\\repos\\45\\Lab_work2\\Lab_work2\\Repository\\UniversityRepository.cs",
+              "RelativeDocumentMoniker": "Lab_work2\\Repository\\UniversityRepository.cs",
+              "ToolTip": "C:\\Users\\shere\\source\\repos\\45\\Lab_work2\\Lab_work2\\Repository\\UniversityRepository.cs",
+              "RelativeToolTip": "Lab_work2\\Repository\\UniversityRepository.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAowJ8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T11:45:58.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\shere\\source\\repos\\45\\Lab_work2\\Lab_work2\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "Lab_work2\\Models\\Teacher.cs",
+              "ToolTip": "C:\\Users\\shere\\source\\repos\\45\\Lab_work2\\Lab_work2\\Models\\Teacher.cs",
+              "RelativeToolTip": "Lab_work2\\Models\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T11:44:04.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\shere\\source\\repos\\45\\Lab_work2\\Lab_work2\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Lab_work2\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\shere\\source\\repos\\45\\Lab_work2\\Lab_work2\\Models\\Department.cs",
+              "RelativeToolTip": "Lab_work2\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T11:42:45.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentCard.cs",
+              "DocumentMoniker": "C:\\Users\\shere\\source\\repos\\45\\Lab_work2\\Lab_work2\\Models\\StudentCard.cs",
+              "RelativeDocumentMoniker": "Lab_work2\\Models\\StudentCard.cs",
+              "ToolTip": "C:\\Users\\shere\\source\\repos\\45\\Lab_work2\\Lab_work2\\Models\\StudentCard.cs",
+              "RelativeToolTip": "Lab_work2\\Models\\StudentCard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T11:42:18.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\shere\\source\\repos\\45\\Lab_work2\\Lab_work2\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Lab_work2\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\shere\\source\\repos\\45\\Lab_work2\\Lab_work2\\Models\\Student.cs",
+              "RelativeToolTip": "Lab_work2\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T11:41:38.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\shere\\source\\repos\\45\\Lab_work2\\Lab_work2\\Models\\Group.cs",
+              "RelativeDocumentMoniker": "Lab_work2\\Models\\Group.cs",
+              "ToolTip": "C:\\Users\\shere\\source\\repos\\45\\Lab_work2\\Lab_work2\\Models\\Group.cs",
+              "RelativeToolTip": "Lab_work2\\Models\\Group.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T11:41:17.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shere\\source\\repos\\45\\Lab_work2\\Lab_work2\\Program.cs",
+              "RelativeDocumentMoniker": "Lab_work2\\Program.cs",
+              "ToolTip": "C:\\Users\\shere\\source\\repos\\45\\Lab_work2\\Lab_work2\\Program.cs",
+              "RelativeToolTip": "Lab_work2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T11:38:58.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "C:\\Users\\shere\\source\\repos\\45\\Lab_work2\\Lab_work2\\Models\\Enrollment.cs",
+              "RelativeDocumentMoniker": "Lab_work2\\Models\\Enrollment.cs",
+              "ToolTip": "C:\\Users\\shere\\source\\repos\\45\\Lab_work2\\Lab_work2\\Models\\Enrollment.cs",
+              "RelativeToolTip": "Lab_work2\\Models\\Enrollment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T11:40:30.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\shere\\source\\repos\\45\\Lab_work2\\Lab_work2\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Lab_work2\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\shere\\source\\repos\\45\\Lab_work2\\Lab_work2\\Models\\Course.cs",
+              "RelativeToolTip": "Lab_work2\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T11:40:03.221Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
